@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **tests, tailwind and Vue.js**
 
-- 👨‍💻 Check me out on [www.karpowiczm.pl](www.karpowiczm.pl)
+- 👨‍💻 Check me out on www.karpowiczm.pl
 
 - 📫 How to reach me **mateusz.karpowicz@outlook.com**
 
