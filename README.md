@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mateusz.karpowicz@outlook.com**
 
-- Latest project: https://travelplaces.netlify.app/
+- Latest project: https://travelplaces.netlify.app/ || https://funwithmaps.netlify.app/
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
