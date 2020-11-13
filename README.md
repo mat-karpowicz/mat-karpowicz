@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateusz!</h1>
 <h3 align="center">I purely want to code. Come and meet me!</h3>
 
-- 🌱 I’m currently learning **tests, Katas <3**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 Check me out on www.karpowiczm.pl
 
